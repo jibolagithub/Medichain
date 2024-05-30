@@ -3,6 +3,10 @@ import AppAppBar from "../HomeFiles/AppAppBar";
 import ProductHero from "../HomeFiles/ProductHero";
 import TechStackInfo from "./techStackInfo";
 import ProjectInfo from "./projectInfo";
+<<<<<<< HEAD
+=======
+import TeamInfo from "./teamInfo";
+>>>>>>> upstream/master
 import AppFooter from "../HomeFiles/AppFooter";
 
 export default function MediChain() {
@@ -13,6 +17,10 @@ export default function MediChain() {
       <ProductHero />
       <TechStackInfo />
       <ProjectInfo />
+<<<<<<< HEAD
+=======
+      <TeamInfo />
+>>>>>>> upstream/master
       <AppFooter />
     </React.Fragment>
   );

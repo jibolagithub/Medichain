@@ -152,4 +152,8 @@ ProjectInfo.propTypes = {
     classes: PropTypes.object.isRequired,
 };
 
+<<<<<<< HEAD
 export default withStyles(styles)(ProjectInfo);
+=======
+export default withStyles(styles)(ProjectInfo);
+>>>>>>> upstream/master

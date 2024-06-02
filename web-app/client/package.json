@@ -17,7 +17,7 @@
     "recharts": "^1.8.5",
     "redux": "^4.2.0",
     "redux-persist": "^6.0.0",
-    "semantic-ui-react": "^0.88.2",
+    "semantic-ui-react": "^2.1.5",
     "classnames": "^2.2.6",
     "sass": "^1.49.7"
   },

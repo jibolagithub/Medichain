@@ -15,7 +15,7 @@
     "react-scripts": "^3.4.4",
     "reactstrap": "^8.10.1",
     "recharts": "^1.8.5",
-    "redux": "^4.2.0",
+    "redux": "^5.0.1",
     "redux-persist": "^6.0.0",
     "semantic-ui-react": "^0.88.2",
     "classnames": "^2.2.6",

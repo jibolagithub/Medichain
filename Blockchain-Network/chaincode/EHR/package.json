@@ -19,14 +19,14 @@
     "dependencies": {
         "fabric-shim":"^2.2.3",
     	"fabric-contract-api":"^2.2.3",
-        "fabric-ca-client": "^2.2.4",
-        "fabric-network": "^2.2.4"
+        "fabric-ca-client": "^2.2.20",
+        "fabric-network": "^2.2.20"
     },
     "devDependencies": {
         "chai": "^4.2.0",
         "chai-as-promised": "^7.1.1",
         "eslint": "^6.3.0",
-        "mocha": "^6.2.0",
+        "mocha": "^10.4.0",
         "nyc": "^14.1.1",
         "sinon": "^7.4.1",
         "sinon-chai": "^3.3.0",
